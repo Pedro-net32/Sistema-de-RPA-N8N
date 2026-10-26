@@ -1,0 +1,13 @@
+# Segredos
+.env
+*.key
+secrets.*
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+perfil,produto,minimo,rentabilidade
+Conservador,Conta Remunerada,1,90% do CDI
+Conservador,Tesouro Selic,150,100% da Selic
+Conservador,CDB Liquidez Diária,500,100% do CDI
+Conservador,LCI 12 meses,3000,92% do CDI
+Moderado,Tesouro IPCA+ 2035,200,IPCA+6.2%
+Moderado,CDB Pós-fixado 24 meses,1000,112% do CDI
+Moderado,Fundo de Debêntures Incentivadas,2500,IPCA+5.5%
+Arrojado,ETF de Ações,100,Variável
+Arrojado,Fundos Imobiliários (FIIs),300,Variável
+Arrojado,Fundo de Ações Small Caps,5000,Variável
